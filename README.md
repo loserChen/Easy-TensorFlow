@@ -8,4 +8,5 @@ It is a basic introduction to tensorflow, the jupyter file provide some understa
 So it is a simple and basic tutorial for the tf beginners.  
 If you want to deep into tensorflow for some practical experienments，you can learn by yourself for following lectures which I never take.  
 Hope this can provide a little help for people new to tf.  
-By the way, I am also a tensorflow beginner. There are something wrong taking place is not surprising, hoping you can correct me.
+By the way, I am also a tensorflow beginner. There are something wrong taking place is not surprising, hoping you can correct me.  
+If you want to see my [blog](https://blog.csdn.net/qq_35564813?ref=toolbar), then your dream is achieved.
